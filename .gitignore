@@ -2,6 +2,6 @@
 *.db
 /target 
 /bin
-DEV_1/bin/
-DEV_1/obj/
-.vs/
+DEV_1/DEV_1/bin/
+DEV_1/DEV_1/obj/
+DEV_1/.vs/
